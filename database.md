@@ -1,5 +1,5 @@
 # poland-gis-datasets
-GitHub page gathering links to Poland GIS datasets: vectors (points, lines, polygons), rasters and Web Map Services (WMS) or Web Map Tiled Services (WMTS)
+GitHub page gathering links to polish GIS datasets: vectors (points, lines, polygons), rasters and Web Map Services (WMS) or Web Map Tiled Services (WMTS). Feel free to update this database.
 
 ## Administrative Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
