@@ -25,19 +25,29 @@ GitHub page gathering links to polish GIS datasets: vectors (points, lines, poly
 #### Vector Datasets (SHP, GeoJSON and other)
 - EnviroSolutions - Roads, railroads, bike roads (Warsaw only) - https://www.envirosolutions.pl/en/otwarte-dane.html - various size
 
-## Nature Datasets
+## Environment and Nature Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
 - EnviroSolutions - National, landscape parks, nature reserves, measurement stations - https://www.envirosolutions.pl/en/otwarte-dane.html - various size
+- GIS Support - Physiogeographic regions and links to other portals - https://gis-support.pl/dane-srodowiskowe/ - ~20 MB
+
+## Statictic Datasets
+#### Vector Datasets (SHP, GeoJSON and other)
+- Statistics Poland - Demographics, statistic data, cities for statistics use -  https://geo.stat.gov.pl/imap/ (this is geoportal, need to search metadata to find links eg. [link 1](http://geo.stat.gov.pl/atom_web-0.1.0/download/?fileId=33d3e42d631f6d294837a7cf68d6c332&name=SU_BREC_2020_OBW.zip), [link_2](http://geo.stat.gov.pl/atom_web-0.1.0/download/?fileId=0a9505c91b1ba368455026a09e183163&name=SU_BREC_2020_REJ.zip) - various size
+
+## Landcover Datasets
+#### Vector Datasets (SHP, GeoJSON and other)
+- The CORINE Land Cover, Copernicus - land cover polygons https://land.copernicus.eu/pan-european/corine-land-cover
 
 <br />
 
 ## Geoportals
+- National Geoportal run by the Head Office of Geodesy and Cartography - https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0
 - Geoservice of the General Directorate for Environmental Protection - http://geoserwis.gdos.gov.pl/mapy/
 - Geoportal of the Chief Inspectorate of Environmental Protection - http://inspire.gios.gov.pl/portal/
 - Geoportal of the Polish Geological Institute - National Research Institute - http://geologia.pgi.gov.pl/
-- Bank Danych o Lasach portal run by the General Directorate of State Forests - https://www.bdl.lasy.gov.pl/portal/en
+- Forest Data Bank portal run by the General Directorate of State Forests - https://www.bdl.lasy.gov.pl/portal/en
 - Map service of the Forest Research Institute - https://www.ibles.pl/mapa/index.html
 - Data from the Institute of Meteorology and Water Management - National Research Institute - https://imgw.isok.gov.pl/index.html
-- National Geoportal run by the Head Office of Geodesy and Cartography - https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0
 - The INSPIRE Geoportal of the European Commission - https://inspire-geoportal.ec.europa.eu/
+- Statistics Poland - https://geo.stat.gov.pl/imap/
 
