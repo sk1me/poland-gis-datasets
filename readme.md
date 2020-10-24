@@ -59,7 +59,8 @@ https://mapy.geoportal.gov.pl/imap/Imgp_2.html
 https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view
 - NASA SRTM - spatial resolution: 1 arc second (~30 m) - time: 2000 - format: DEM, GeoTIFF - tiles: various - various size<br /> https://earthexplorer.usgs.gov/<br /> 
 https://dwtkns.com/srtm/<br /> 
-https://dwtkns.com/srtm30m/<br /> 
+https://dwtkns.com/srtm30m/<br />
+https://remotepixel.ca/projects/srtm1arc-gl.html<br />
 
 ## Geoportals
 - National Geoportal run by the Head Office of Geodesy and Cartography<br />
