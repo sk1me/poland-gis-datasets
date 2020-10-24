@@ -3,32 +3,44 @@ GitHub page gathering links to polish GIS datasets: vectors (points, lines, poly
 
 ## Administrative Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
-- European Environment Agency - country polygon - https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2/gis-files/poland-shapefile - 9,72 MB
-- polska-geojson GitHub - administrative division - https://github.com/ppatrzyk/polska-geojson - 145 KB - 8 MB
-- EnviroSolutions - Borders, administrative division, cadastral data, voivodships, communities, districts - https://www.envirosolutions.pl/en/otwarte-dane.html - various size
-- GIS Support - Borders, special borders, administrative division, cadastral data, voivodships, communities, districts - https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/ - various size
-- Head Office of Geodesy and Cartography (GUGiK) - Adress points - https://opendata.geoportal.gov.pl/prg/adresy/PRG-punkty_adresowe.zip - 905MB (~20GB after extracting)
-- Head Office of Geodesy and Cartography (GUGiK)  - Administrative boundaries, special borders, address points divided to voivodeships - http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg - various
+- European Environment Agency - country polygon - 9,72 MB<br /> 
+https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2/gis-files/poland-shapefile
+- polska-geojson GitHub - administrative division  - 145 KB - 8 MB <br /> 
+https://github.com/ppatrzyk/polska-geojson
+- EnviroSolutions - Borders, administrative division, cadastral data, voivodships, communities, districts  - various size<br />
+https://www.envirosolutions.pl/en/otwarte-dane.html
+- GIS Support - Borders, special borders, administrative division, cadastral data, voivodships, communities, districts - various size <br />
+ https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/
+- Head Office of Geodesy and Cartography (GUGiK) - Adress points - 905MB (~20GB after extracting) <br />
+https://opendata.geoportal.gov.pl/prg/adresy/PRG-punkty_adresowe.zip
+- Head Office of Geodesy and Cartography (GUGiK)  - Administrative boundaries, special borders, address points divided to voivodeships - various size<br />
+http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg
 
 ## Geology Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
-- The Polish Geological Institute (PGI) - Caves, boreholes, mining areas, groundwater bodies, seismics, geomorphology, cross section lines and more - http://dm.pgi.gov.pl/ (https://geolog.pgi.gov.pl/) - various size
+- The Polish Geological Institute (PGI) - Caves, boreholes, mining areas, groundwater bodies, seismics, geomorphology, cross section lines and more - various size<br />
+http://dm.pgi.gov.pl/ (https://geolog.pgi.gov.pl/)
 
 #### Raster Datasets (GeoTIFF and other)
-- The Polish Geological Institute (PGI) - Geological maps 1:50 000 to download - https://geolog.pgi.gov.pl/ - various size
+- The Polish Geological Institute (PGI) - Geological maps 1:50 000 to download - various size<br />
+https://geolog.pgi.gov.pl/
 
 ## Hydrology Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
-- EnviroSolutions - Water bodies, lakes, rivers - https://www.envirosolutions.pl/en/otwarte-dane.html - various size
+- EnviroSolutions - Water bodies, lakes, rivers - various size<br/>
+https://www.envirosolutions.pl/en/otwarte-dane.html
 
 ## Infrastracture Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
-- EnviroSolutions - Roads, railroads, bike roads (Warsaw only) - https://www.envirosolutions.pl/en/otwarte-dane.html - various size
+- EnviroSolutions - Roads, railroads, bike roads (Warsaw only) - various size<br />
+https://www.envirosolutions.pl/en/otwarte-dane.html
 
 ## Environment and Nature Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
-- EnviroSolutions - National, landscape parks, nature reserves, measurement stations - https://www.envirosolutions.pl/en/otwarte-dane.html - various size
-- GIS Support - Physiogeographic regions and links to other portals - https://gis-support.pl/dane-srodowiskowe/ - ~20 MB
+- EnviroSolutions - National, landscape parks, nature reserves, measurement stations - various size<br />
+https://www.envirosolutions.pl/en/otwarte-dane.html
+- GIS Support - Physiogeographic regions and links to other portals - ~20 MB<br />
+https://gis-support.pl/dane-srodowiskowe/
 
 ## Statictic Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
@@ -36,18 +48,36 @@ GitHub page gathering links to polish GIS datasets: vectors (points, lines, poly
 
 ## Landcover Datasets
 #### Vector Datasets (SHP, GeoJSON and other)
-- The CORINE Land Cover, Copernicus - land cover polygons https://land.copernicus.eu/pan-european/corine-land-cover
+- The CORINE Land Cover, Copernicus - land cover polygons - various size<br />
+https://land.copernicus.eu/pan-european/corine-land-cover
 
-<br />
+## Elevation (Digital Elevation Model (DEM)) Datasets
+#### Raster and Text Datasets
+- Head Office of Geodesy and Cartography - 1 m spatial resolution - time: 2013-present - format: ARC/INFO ASCII GRID, ASCII XYZ GRID in separate sheets, need to choose NMT(DEM) layer in right panel - tiles: 2 km x 2km - various size<br />
+https://mapy.geoportal.gov.pl/imap/Imgp_2.html
+- Copernicus EU DEM - spatial resolution: 25 m - time: 2011 - format: GeoTIFF 32 BIT - tiles: 1000 km x 1000 km - various size<br />
+https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1/view
+- NASA SRTM - spatial resolution: 1 arc second (~30 m) - time: 2000 - format: DEM, GeoTIFF - tiles: various - various size<br /> https://earthexplorer.usgs.gov/<br /> 
+https://dwtkns.com/srtm/<br /> 
+https://dwtkns.com/srtm30m/<br /> 
 
 ## Geoportals
-- National Geoportal run by the Head Office of Geodesy and Cartography - https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0
-- Geoservice of the General Directorate for Environmental Protection - http://geoserwis.gdos.gov.pl/mapy/
-- Geoportal of the Chief Inspectorate of Environmental Protection - http://inspire.gios.gov.pl/portal/
-- Geoportal of the Polish Geological Institute - National Research Institute - http://geologia.pgi.gov.pl/
-- Forest Data Bank portal run by the General Directorate of State Forests - https://www.bdl.lasy.gov.pl/portal/en
-- Map service of the Forest Research Institute - https://www.ibles.pl/mapa/index.html
-- Data from the Institute of Meteorology and Water Management - National Research Institute - https://imgw.isok.gov.pl/index.html
-- The INSPIRE Geoportal of the European Commission - https://inspire-geoportal.ec.europa.eu/
-- Statistics Poland - https://geo.stat.gov.pl/imap/
+- National Geoportal run by the Head Office of Geodesy and Cartography<br />
+https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0
+- Geoservice of the General Directorate for Environmental Protection<br />
+http://geoserwis.gdos.gov.pl/mapy/
+- Geoportal of the Chief Inspectorate of Environmental Protection<br />
+http://inspire.gios.gov.pl/portal/
+- Geoportal of the Polish Geological Institute - National Research Institute<br />
+http://geologia.pgi.gov.pl/
+- Forest Data Bank portal run by the General Directorate of State Forests<br />
+https://www.bdl.lasy.gov.pl/portal/en
+- Map service of the Forest Research Institute<br />
+https://www.ibles.pl/mapa/index.html
+- Data from the Institute of Meteorology and Water Management - National Research Institute<br />
+https://imgw.isok.gov.pl/index.html
+- The INSPIRE Geoportal of the European Commission<br />
+https://inspire-geoportal.ec.europa.eu/
+- Statistics Poland<br />
+https://geo.stat.gov.pl/imap/
 
