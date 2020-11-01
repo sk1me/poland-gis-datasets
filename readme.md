@@ -62,6 +62,16 @@ https://dwtkns.com/srtm/<br />
 https://dwtkns.com/srtm30m/<br />
 https://remotepixel.ca/projects/srtm1arc-gl.html<br />
 
+## Historic Map Datasets
+#### Raster
+- Mapster - Old maps of Poland and Central Europe -various resolution - various time - various size<br />
+http://igrek.amzp.pl/
+
+## Current Map Datasets
+#### Vector
+- Head Office of Geodesy and Cartography - Database of general geographic objects (BDOO) divided into voivodships - format: GML
+http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-zawarte-w-bazie-danych-obiektow-ogolnogeograficznych-bdoo
+
 ## Geoportals
 - National Geoportal run by the Head Office of Geodesy and Cartography<br />
 https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0
