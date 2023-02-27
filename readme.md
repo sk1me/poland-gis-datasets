@@ -69,8 +69,10 @@ http://igrek.amzp.pl/
 
 ## Current Map Datasets
 #### Vector
-- Head Office of Geodesy and Cartography - Database of general geographic objects (BDOO) divided into voivodships - format: GML
-http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-zawarte-w-bazie-danych-obiektow-ogolnogeograficznych-bdoo
+- Head Office of Geodesy and Cartography - Database of general geographic objects (BDOO), Database of Topographic Objects (BDOT10k), Digital Elevation Model (DEM), Ortophotomap, LiDAR, State Register of Borders and Areas of Territorial Divisions of the Country (PRG), National Register of Geographical Names (PRNG)- formats: GML, SHP, ASC, GeoTIFF
+https://www.gov.pl/web/gugik/dane-udostepniane-bez-platnie-do-pobrania-z-serwisu-wwwgeoportalgovpl
+- Open Street Map - Geofabrik.de - format: Vector Tile PBF
+https://download.geofabrik.de/europe/poland.html
 
 ## Geoportals
 - National Geoportal run by the Head Office of Geodesy and Cartography<br />
