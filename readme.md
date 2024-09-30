@@ -93,4 +93,6 @@ https://imgw.isok.gov.pl/index.html
 https://inspire-geoportal.ec.europa.eu/
 - Statistics Poland<br />
 https://geo.stat.gov.pl/imap/
+- KZGW - Hydroportal - Flood risk and threat maps <br/>
+https://wody.isok.gov.pl/imap_kzgw/
 
