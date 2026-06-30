@@ -95,4 +95,6 @@ https://inspire-geoportal.ec.europa.eu/
 https://geo.stat.gov.pl/imap/
 - KZGW - Hydroportal - Flood risk and threat maps <br/>
 https://wody.isok.gov.pl/imap_kzgw/
+- Działkopedia - Land parcel portal: transaction prices (RCN), local zoning plans (plany ogólne / MPZP) and cadastral data per plot<br />
+https://dzialkopedia.pl
 
